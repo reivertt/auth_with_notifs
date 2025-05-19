@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(initialRoute: 'login', routes: {
       'home': (context) => const HomeScreen(),
-      'second': (context) => const SecondScreen(),
+      // 'second': (context) => const SecondScreen(),
       'login': (context) => const LoginScreen(),
       'register': (context) => const RegisterScreen(),
     },
