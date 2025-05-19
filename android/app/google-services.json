@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38445472555",
+    "project_id": "authentication-module-9101f",
+    "storage_bucket": "authentication-module-9101f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38445472555:android:b923aa895de2e29057036e",
+        "android_client_info": {
+          "package_name": "nabil.amoriza.auth_with_notifs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvgF7UJQ3jAoKcudJNF3TxzWsb77ESb4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38445472555:android:d4a51fc0e872570d57036e",
+        "android_client_info": {
+          "package_name": "nabil.amoriza.authentication_module"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvgF7UJQ3jAoKcudJNF3TxzWsb77ESb4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

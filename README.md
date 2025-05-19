@@ -1,6 +1,6 @@
 # auth_with_notifs
 
-A new Flutter project.
+A simple Flutter app that supports firebase authentication and awesome notifications.
 
 ## Getting Started
 
